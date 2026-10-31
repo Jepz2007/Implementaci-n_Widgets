@@ -1,4 +1,4 @@
-package TiposWidgets;
+package model.TiposWidgets;
 
 import java.awt.BorderLayout;
 import java.awt.Color;

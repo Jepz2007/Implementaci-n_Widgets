@@ -1,4 +1,4 @@
-package TiposWidgets;
+package model.TiposWidgets;
 
 import javax.swing.JComponent;
 import javax.swing.JLabel;

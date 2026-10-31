@@ -1,4 +1,7 @@
-package TiposWidgets;
+package model.TiposWidgets;
+
+import model.Widget;
+import model.Interactivo;
 
 import java.awt.FlowLayout;
 import javax.swing.JButton;
@@ -6,8 +9,6 @@ import javax.swing.JComponent;
 import javax.swing.JLabel;
 import javax.swing.JPanel;
 
-import model.Interactivo;
-import model.Widget;
 
 public class WeatherWidget implements Widget, Interactivo {
 
